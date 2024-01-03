@@ -1,0 +1,14 @@
+#Contact {
+	background-image: url(../../../images/footer-bg.png);
+	background-size: cover;
+	background-position: center;
+	height: 85vh;
+	overflow: hidden;
+}
+form{
+	margin: 10px;
+	height: 600px;
+}
+#exampleFormControlSelect1{
+	height: 50px;
+}

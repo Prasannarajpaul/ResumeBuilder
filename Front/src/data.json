@@ -1,0 +1,141 @@
+{
+	"contact": {
+		"name": "Enter your Name",
+		"photoUrl": "",
+		"location": "Location",
+		"phone": "+91",
+		"email": "@gmail.com",
+		"linkedin": "www.linkedin.com",
+		"github": "github.com"
+	},
+
+	"objective": "My Objective is",
+
+	"education": [
+		{
+			"year": "Year",
+			"course": "Course",
+			"institution": "College",
+			"university": "University/Board",
+			"percentage": "10",
+			"achievements": "Achivements"
+		},
+		{
+			"year": "Year",
+			"course": "Course",
+			"institution": "College",
+			"university": "University/Board",
+			"percentage": "10",
+			"achievements": "Achivements"
+		},
+		{
+			"year": "Year",
+			"course": "Course",
+			"institution": "College",
+			"university": "University/Board",
+			"percentage": "10",
+			"achievements": "Achivements"
+		}
+	],
+
+	"languages": [
+		{ "language": "English", "level": 4 }
+	],
+
+	"experience": [
+		{
+			"year": "Year",
+			"company": "Company",
+			"position": "Position",
+			"description": "Description"
+		},
+		{
+			"year": "Year",
+			"company": "Company",
+			"position": "Position",
+			"description": "Description"
+		}
+	],
+
+	"certifications": [
+		{
+			"year": "Year",
+			"institution": "Certification",
+			"course": "Course",
+			"description": "Description",
+			"score": "Grade"
+		},
+		{
+			"year": "Year",
+			"institution": "Certification",
+			"course": "Course",
+			"description": "Description",
+			"score": "Grade"
+		}
+	],
+
+	"skills": [
+		"C",
+		"C++",
+		"HTML5",
+		"CSS3",
+		"JavaScript",
+		"MySQL"		
+	],
+
+	"tools": [ "VSCode", "Google COLAB", "MySQL WorkBench"],
+
+	"interests": [
+		"Machine Learning",
+		"Artificial Intelligence",
+		"Data Science",
+		"Full Stack Web Dev"
+	],
+
+	"projects": [
+		{
+			"title": "Project-1",
+			"link": "",
+			"description": "Description"
+		},
+		{
+			"title": "Project-2",
+			"link": "",
+			"description": "Description"
+		}
+	],
+
+	"projects_link": "",
+
+	"workshops": [
+		{
+			"year": "Year",
+			"description": "Description"
+		},
+		{
+			"year": "Year",
+			"description": "Description"
+		}
+	],
+
+	"activities": [
+		{
+			"title": "Activity-1"
+		},
+		{
+			"title": "Activity-2"
+		},
+		{
+			"title": "Activity-3"
+		}
+	],
+
+	"references": [
+		{
+			"name": "Name",
+			"desig": "Designation",
+			"phone": "+91",
+			"email": "@example.com"
+		}
+	]
+}

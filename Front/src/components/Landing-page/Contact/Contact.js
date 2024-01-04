@@ -47,7 +47,7 @@ const Contact = () => {
                         <p>Our Vision is to - <strong class="text-dark">Give Best Resumes</strong> </p>
                         <p>Questions? Enquiries? Suggestions? Existential doubts? i am ready to hear about them!</p>
                         <h5>Contact us now</h5>
-                        <h4 class="text-info">Email: kanuparthikasyap95@gmail.com</h4>
+                        <h4 class="text-info">Email: mprasannarajpaul@gmail.com</h4>
                     </div>
                 </div>
             </div>

@@ -8,8 +8,8 @@ const Footer = () => {
                 <div className='row footer-top py-3'>
                     <div className='col-md-6 py-3'>
                         <h4 class="text-info">Resume Builder Web App</h4>
-                        <h6 class="text-white">Email: kanuparthikasyap95@gmail.com</h6>
-                        <h6 class="text-white">Phone: +91 630xxxx474</h6>
+                        <h6 class="text-white">Email: mprasannarajpaul@gmail.com</h6>
+                        <h6 class="text-white">Phone: +91 934****672</h6>
                     </div>
                     <div className='col-md-3'>
                         <ul className="list-unstyled">
@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
 
                 <div className='footer-bottom d-flex justify-content-center'>
-                    <p className='text-secondary'>Copyright &copy; 2020 Resume Builder Web App </p>
+                    <p className='text-secondary'>Copyright &copy; 2024 Resume Builder Web App </p>
                 </div>
             </div>
         </footer>
